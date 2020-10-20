@@ -11,7 +11,7 @@ namespace IntroductionOOPSInher
         public ParentClass()
         {
             Console.WriteLine("ParentClass Construtor called ");
-            Console.WriteLine("ParentClass Construtor ==>called ");
+            Console.WriteLine("ParentClass Construtor ==>called parent ");
         }
         public ParentClass(String Message)
         {
